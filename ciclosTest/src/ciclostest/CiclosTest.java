@@ -61,10 +61,7 @@ public class CiclosTest {
             System.out.print(suma);
             System.out.print(" - ");
             suma = suma + 1;
-<<<<<<< HEAD
         } while (suma <= cantidad);
-=======
-        } while (suma < cantidad);
         System.out.print("\n");
         suma=cantidad;
         do{
@@ -72,7 +69,6 @@ public class CiclosTest {
             System.out.print(" - ");
             suma=suma-1;
         }while(suma>0);
->>>>>>> 4a7a2bc3d4c13e732caefd40c8b7ecb77657acc8
     }
 
 }
