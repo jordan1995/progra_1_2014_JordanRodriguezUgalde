@@ -17,6 +17,9 @@ public class JavaApplication41 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        ClsRomanos c= new ClsRomanos();
+        c.main();
+                
     }
     
 }
